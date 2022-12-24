@@ -1,0 +1,12 @@
+.button {
+    padding: 0.5rem 1rem;
+    background-color: #201F20;
+    color: #FFFFFF;
+    border-radius: 0.5rem;
+    transition: filter 0.2s linear;
+}
+
+.button:hover {
+    filter: brightness(0.8);
+    border: 1px solid #CCC;
+}

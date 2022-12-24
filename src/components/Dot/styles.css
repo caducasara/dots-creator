@@ -1,0 +1,11 @@
+#dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  
+    background-color: #201F20;
+  }
